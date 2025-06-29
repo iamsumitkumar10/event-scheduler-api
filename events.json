@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8489c832-aba7-4c7f-bf42-53bf92283415",
+    "title": "Team Meeting",
+    "description": "",
+    "start_time": "2024-10-05 Time 11:00:00",
+    "end_time": "2024-10-05 Time 18:00:00"
+  },
+  {
+    "id": "fe1c657e-2d73-4fdd-9a28-c0865c9ab409",
+    "title": "Office Party",
+    "description": "",
+    "start_time": "2025-06-28 Time 17:00:00",
+    "end_time": "2025-06-28 Time 18:00:00"
+  },
+  {
+    "id": "2f75133f-86be-4bb8-9478-c4bc5a9bad90",
+    "title": "Monthly Team Meating",
+    "description": "",
+    "start_time": "2025-06-30 Time 16:00:00",
+    "end_time": "2025-06-30 Time 18:00:00"
+  },
+  {
+    "id": "c398549c-6b23-49fc-836c-0dbf54657f12",
+    "title": "Client Meating",
+    "description": "",
+    "start_time": "2025-02-15 Time 13:00:00",
+    "end_time": "2025-062-15 Time 15:00:00"
+  }
+]
