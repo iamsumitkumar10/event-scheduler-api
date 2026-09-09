@@ -1,10 +1,10 @@
-# 📅 Event Scheduler API
+# Event Scheduler API
 
 A simple **Flask-based REST API** for creating, listing, updating, and deleting events.
 
 ---
 
-## 🚀 Setup & Installation
+## Setup & Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -30,7 +30,7 @@ Expected output:
 
 ---
 
-## 📌 API Endpoints
+## API Endpoints
 
 | Endpoint         | Method | Description        |
 |------------------|--------|--------------------|
@@ -43,7 +43,7 @@ Expected output:
 
 ---
 
-## 🔎 Usage Examples
+## Usage Examples
 
 ### 1. Check API Documentation
 ```bash
@@ -128,7 +128,7 @@ Response:
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 ```bash
 pytest test_events.py -v
 ```
@@ -137,16 +137,16 @@ Output:
 ============================= test session starts =============================
 collected 5 items
 
-test_events.py::test_home_page PASSED        [ 20%]
-test_events.py::test_create_event PASSED     [ 40%]
-test_events.py::test_get_all_events PASSED   [ 60%]
-test_events.py::test_get_one_event PASSED    [ 80%]
-test_events.py::test_delete_event PASSED     [100%]
+test_events.py::test_home_page PASSED
+test_events.py::test_create_event PASSED
+test_events.py::test_get_all_events PASSED
+test_events.py::test_get_one_event PASSED
+test_events.py::test_delete_event PASSED
 
 ========================== 5 passed in 0.23s ==========================
 ```
 
 ---
 
-## ✅ Verification
-✔️ All functionalities confirmed working via **Postman**
+## Verification
+All functionalities confirmed working via **Postman**
